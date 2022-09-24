@@ -35,6 +35,41 @@
       "artifacts": [
         "Lock"
       ]
+    },
+    "E:\\Coding\\New-Codes-Projects\\Blockchain\\Learnings\\hardhat-erc20\\contracts\\ERC20.sol": {
+      "lastModificationDate": 1663915968126,
+      "contentHash": "1324022a36da86db17d6316ff2c45b59",
+      "sourceName": "contracts/ERC20.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.11"
+      ],
+      "artifacts": [
+        "ERC20"
+      ]
     }
   }
 }
